@@ -1,0 +1,18 @@
+Using training data for model 1...
+simple_weights[1]:  281.912119175
+
+
+Using test data for model 1...
+First house prediction using model 1:  356134.443255
+Rss using model 1:  2.75400044902e+14
+
+
+Using training data for model 2...
+simple_weights[1]:  245.035462765
+
+
+Using test data for model 2...
+First house prediction using model 2:  366670.088643
+Rss using model 2:  2.70261660021e+14
+Actual price of house in test set:  310000.0
+Press any key to continue . . .
